@@ -1,0 +1,58 @@
+body {
+    background-image: url("https://www.donnaglamour.it/wp-content/uploads/2020/02/PX_Legno.jpg");
+    color: white;
+}
+
+.container {
+    width: 1000px;
+    margin:auto;
+    align-content: center;
+}
+
+#sidetext {
+    color: white;
+    font-size: 18;
+    display: inline-block;
+}
+
+#logo {
+    width: 100px;
+}
+
+#search {
+    align-content: center;
+}
+
+#trenta {
+    background-color: orange;
+    border-radius: 100%;
+
+}
+
+.row {
+    background-color: grey;
+}
+.rowl {
+    display: inline-block;
+    font-weight: bold;
+    width: 30%;
+}
+
+.rowr {
+    display: inline-block;
+    width: 60%;
+}
+
+#subject {
+
+}
+
+footer {
+    text-align: center;
+    color: white;
+}
+#bottom {
+    font-size: 22px;
+    font-weight: bold;
+
+}
